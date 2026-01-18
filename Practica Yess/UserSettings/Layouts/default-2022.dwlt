@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1360
     height: 725
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Hierarchy
   m_RootView: {fileID: 4}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -750,9 +750,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.65184534, y: 0.39443877, z: 0.055056214}
+    m_Target: {x: 0.46434247, y: 0.3722906, z: 0.05519228}
     speed: 2
-    m_Value: {x: 0.65184534, y: 0.39443877, z: 0.055056214}
+    m_Value: {x: 0.46434247, y: 0.3722906, z: 0.05519228}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -802,9 +802,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 6.7212653
+    m_Target: 6.7076545
     speed: 2
-    m_Value: 6.7212653
+    m_Value: 6.7076545
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1052,14 +1052,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\Practica Yess
+  m_LastProjectPath: D:\prueba_unity\Practica Yess
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: a46f0000
-    m_LastClickedID: 28580
-    m_ExpandedIDs: 00000000a46f000000ca9a3b
+    m_SelectedIDs: ae6f0000
+    m_LastClickedID: 28590
+    m_ExpandedIDs: 00000000ae6f000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1087,7 +1087,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000a46f0000
+    m_ExpandedIDs: 00000000ae6f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
